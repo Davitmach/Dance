@@ -1,0 +1,29 @@
+.choose_box {
+    background-image: url('../../../public/emojies_bg.png');
+    background-size: cover;
+ 
+    .btn-cool {
+        width: 100px;
+        height: 85px;
+        background-image: url('../../../public/smile_tears.png');
+        background-size: cover;
+    }
+    .btn-class {
+        width: 100px;
+        height: 85px;
+        background-image: url('../../../public/smile_heart.png');
+        background-size: cover;
+    }
+    .btn-disheart  {
+        width: 100px;
+        height: 85px;
+        background-image: url('../../../public/smile_heart_break.png');
+        background-size: cover;
+    }
+    .btn-heart {
+        width: 100px;
+        height: 85px;
+        background-image: url('../../../public/smile_stars.png');
+        background-size: cover;
+    }
+}
